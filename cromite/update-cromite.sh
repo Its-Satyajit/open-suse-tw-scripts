@@ -49,7 +49,7 @@ create_desktop_integration() {
     log_notify "WARN: Could not create symlink in $BIN_DIR. Is it in your PATH?"
   fi
 
-  cp "$CROMITE_DIR/product_logo_256.png" "$ICON_DIR/cromite.png"
+  cp "$CROMITE_DIR/product_logo_48.png" "$ICON_DIR/cromite.png"
 
   local desktop_file_path="$DESKTOP_DIR/cromite.desktop"
   cat >"$desktop_file_path" <<EOF
