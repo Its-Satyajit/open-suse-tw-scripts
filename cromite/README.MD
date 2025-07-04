@@ -125,7 +125,7 @@ MIT License — see [LICENSE](https://github.com/Its-Satyajit/open-suse-tw-scrip
 
 ## 🧠 Credits
 
-* Script by **[uazo/cromite](https://github.com/Its-Satyajit)**
+* Script by **[Its-Satyajit](https://github.com/Its-Satyajit)**
 * Inspired By [ghnbr](https://github.com/uazo/cromite/issues/771#issuecomment-2050103749)
 * Based on Cromite browser project: [uazo/cromite](https://github.com/uazo/cromite)
 
